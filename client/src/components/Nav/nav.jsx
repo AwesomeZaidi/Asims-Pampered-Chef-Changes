@@ -9,7 +9,7 @@ const Nav = () => {
         $(document).scroll(function() {
             if($(window).scrollTop() > 10) {
 
-             $(".header").css("background","#0088F4");
+             $(".header").css("background","#fcfcfc");
 
  
             }else if($(window).scrollTop() < 50){
