@@ -11,13 +11,7 @@ import img4 from '../../assets/images/img4.png';
 import img5 from '../../assets/images/img5.png';
 import img6 from '../../assets/images/img6.png';
 
-
-import headerbg from '../../assets/images/header-bg.jpg';
 class Home extends Component {
-
-    componentDidMount = () => {
-    };
-
     render() {
         return (
             <div className='home'>
