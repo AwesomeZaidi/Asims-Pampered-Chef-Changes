@@ -1,14 +1,21 @@
 # Asims Pampered Chef Changes 🎯
 
-Independently making some of my own changes to the Pampered Chef website product you can find at www.pamperedchef.com. These changes are not affiliated with the company in any way. Again, all of the assets and wording within this project were borrowed from the real Tegus website, I do not own them.
+Independently making some of my own changes to the Pampered Chef website product you can find at www.pamperedchef.com. These changes are not affiliated with the company in any way. Again, all of the assets and wording within this project were borrowed from the real Pampered Chef website, I do not own them.
 
 I decided to make changes on mobile as I believe that is where most users might be coming from and where I thought I could add most value in this amonut of time invested.
 
-# Changes to Make on Mobile View
-Home Page
-- Home page animtation fade on food circular food items
-- Home page Get the Recipe square image slider and fit on one page
-- Testimonial card swipe
+## Changes I made 💪🙂
+- Made some interative text on the page load.
+- Faded food cards in on scroll
+- New animated simple navigation header that also changes color smoothly on scroll down.
+- Navigation items fading smoothly on click and hover.
+
+## Demo
+![](demo.gif)
+
+## Had I have more time on my hands
+
+Some more changes I would have made if I wasn't on such a time constraint would have been deconstructing the GIF of new food images on the home page to be seperate images that could fade in and out more pleasantly. 
 
 Shopping landing page
 - search bar for user
